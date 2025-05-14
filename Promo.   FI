@@ -1,0 +1,18 @@
+# 🚀 Core Engine for FI (Fibonacci Intelligence)
+
+**Core-Engine** — розумний модуль для:
+- обробки даних PredokAI
+- генерації NFT та токенів
+- CI/CD інтеграції через GitHub Actions
+
+## Чому це важливо:
+- Працює з TypeScript та Jest
+- Підтримує логіку FI-токена
+- Готовий для Web3 і WebApp
+
+## Перевір:  
+[GitHub Actions CI Status](https://github.com/predokbot/core-engine/actions)
+
+---
+
+**Powered by FI** — [fi.gold](https://fi.gold) 
